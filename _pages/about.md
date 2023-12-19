@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: ![KakaoTalk_20231219_193609880](https://github.com/jasonjang1224/jasonjang1224.github.io/assets/77268770/c88c109b-4bfa-4360-a9f9-87b0685dc5cc)
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
