@@ -11,16 +11,12 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master
+      institution: Sungkyunkwan University, Suwon, Republic of Korea
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Mathematics
+        
     - title: Bachelor (Triple Major)
       institution: Sungkyunkwan University, Seoul, Republic of Korea
       year: 2024
@@ -68,4 +64,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Bodybuilding
