@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: Undergraduate student, Sungkyunkwan University, PSD&Econ&Math
 
