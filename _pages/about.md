@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently on my last year toward Bachelor's in Political Science & Diplomacy, Economics and Mathematics at Sungkyunkwan University. My advisor is Prof. Woocheol Choi at Department of Mathematics. 
+Hello! Thank you for visiting this homepage. I am currently on my last year toward Bachelor's in Political Science & Diplomacy, Economics and Mathematics at Sungkyunkwan University. My advisor is Prof. Woocheol Choi at Department of Mathematics. 
 
 I am mainly interested in control theory, specifically in Distributed control, Adaptive control and Optimal control. I am also interested in Optimization and Machine Learning problems. 
 
